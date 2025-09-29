@@ -8,7 +8,7 @@ It is now free and open source and always will be. :clap: :tada:
 | --------------- | -------- | ----------- |
 
 <p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMTU4NTg4LzcyNzg3Mi5wbmc=/original/AU5pWY.png" />
+  <img src="" />
 </p>
 
 

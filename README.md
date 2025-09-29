@@ -8,7 +8,7 @@ It is now free and open source and always will be. :clap: :tada:
 | --------------- | -------- | ----------- |
 
 <p align="center">
-  <img src="" />
+  <img src="Assets/Pixel Adventure 1/Assets/Main Characters/Mask Dude/Double Jump (32x32).png" />
 </p>
 
 

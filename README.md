@@ -34,7 +34,7 @@ You can get access to SDK Runner source code by using one of the following ways:
 - Clone the repository locally:
 
 ```bash
-git clone https://github.com/BayatGames/RedRunner.git
+git clone https://github.com/meajsinghk/ZoomQuest-Hack.git
 ```
 
 Also you can the build version of the SDK Runner using the following ways:
